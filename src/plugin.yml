@@ -1,0 +1,14 @@
+name: AdvancedPvP
+main: me.belf.advancedpvp.AdvancedPvP
+version: 0.1
+website: 
+author: Belf
+
+description: >
+             Advanced PvP
+softdepend: [Spout]
+
+permissions:
+    advancedpvp.nocooldown:
+        description: Weapon do not have a cooldown
+        default: op
